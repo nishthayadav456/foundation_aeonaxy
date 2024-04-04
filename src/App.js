@@ -63,7 +63,7 @@ function App() {
           </div>
         </nav>
         <div class="flex justify-around flex-wrap mt-10">
-          <div class="border border-slate-400 flex justify-around h-40 p-10">
+          <div class="flex justify-around h-40 p-10">
             <div class="flex border-8 border-yellow-500 rounded-full h-20 w-20 p-3">
               <p class="font-bold text-2xl ml-1">2</p>
               <img
@@ -90,7 +90,7 @@ function App() {
               </div>
             </div>
           </div>
-          <div class="border border-slate-400 flex justify-around h-40 p-5">
+          <div class="flex justify-around h-40 p-5 w-96">
             <div>
               <p class="font-bold text-center">W</p>
               <img
@@ -111,7 +111,7 @@ function App() {
               <p class="font-bold text-center">F</p>
               <img
                 class="h-6 w-8 mt-2"
-                src="https://www.svgrepo.com/show/59169/lightning.svg"
+                src="https://www.svgrepo.com/show/24993/lightning-bolt-black-shape.svg"
                 alt="not found"
               />
             </div>
@@ -119,15 +119,15 @@ function App() {
               <p class="font-bold text-center">S</p>
               <img
                 class="h-6 w-8 mt-2"
-                src="https://www.svgrepo.com/show/59169/lightning.svg"
+                src="https://www.svgrepo.com/show/24993/lightning-bolt-black-shape.svg"
                 alt="not found"
               />
             </div>
             <div>
               <p class="font-bold text-center">Su</p>
               <img
-                class="h-6 w-8 mt-2"
-                src="https://www.svgrepo.com/show/59169/lightning.svg"
+                class="h-6 w-8 mt-2 text-slate-500"
+                src="https://www.svgrepo.com/show/24993/lightning-bolt-black-shape.svg"
                 alt="not found"
               />
             </div>
